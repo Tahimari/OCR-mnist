@@ -1,1 +1,4 @@
 mxnet==1.8.0.post0
+opencv-python==4.5.3.56
+matplotlib==3.4.3
+numpy==1.21.2
